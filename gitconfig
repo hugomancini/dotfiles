@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = h.g.mancini@gmail.com
+	email = hgmancini@gmail.com
 	name = Hugo MANCINI
